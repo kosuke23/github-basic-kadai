@@ -26,4 +26,4 @@ Initialized empty Git repository in /Volumes/HD-PCFSU3-A/samurai1/git_challenge/
 (base) kosukeinokuchi@KosukenoMacBook-Air git_challenge % git log --oneline
 554cb06 (HEAD -> master) 日本語訳を追記
 5777cb9 hello_world.textを追加
-(base) kosukeinokuchi@KosukenoMacBook-Air git_challenge %       
+(base) kosukeinokuchi@KosukenoMacBook-Air git_challenge %        
